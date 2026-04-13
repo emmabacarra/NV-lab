@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "NV-lab",
+			"path": "NV-lab"
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "C:/Users/nv-group02/anaconda3/envs/mqst/python.exe",
+		"python.terminal.activateEnvironment": true,
+		"terminal.integrated.defaultProfile.windows": "Command Prompt",
+		"python.analysis.extraPaths": [
+			"C:/Users/nv-group02/Desktop/Lab Folder/personal-utils"
+		]
+	}
+}
