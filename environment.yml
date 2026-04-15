@@ -342,7 +342,7 @@ dependencies:
       - optree==0.19.0
       - optuna==4.7.0
       - orjson==3.11.7
-      - overengineering==0.1.0
+      - orenge==0.1.0
       - packaging==26.0
       - partd==1.4.2
       - pennylane==0.44.0
